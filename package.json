@@ -1,0 +1,25 @@
+{
+  "name": "wccapi",
+  "version": "1.0.0",
+  "description": "WCC API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolineaguiar/wccAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolineaguiar/wccAPI/issues"
+  },
+  "homepage": "https://github.com/carolineaguiar/wccAPI#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  }
+}
